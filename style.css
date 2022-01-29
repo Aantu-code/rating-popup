@@ -26,7 +26,7 @@ body {
 }
 
 .rating-popup-container {
-  background-image: url("./img/Ellipse\ 1.jpg");
+  /* background-image: url("./img/Ellipse\ 1.jpg"); */
   width: 100%;
   height: 305px;
   clip-path: ellipse(70% 100% at 50% 0%);
@@ -127,7 +127,7 @@ form input {
   border: none;
   border-bottom: 1px solid #b7b4b4;
   width: 70%;
-  padding: 10px 68px;
+  padding: 10px 90px;
   font-size: 13px;
   font-family: Mont;
   color: #abaaaa;
