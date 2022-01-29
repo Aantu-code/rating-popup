@@ -1,0 +1,46 @@
+@media only screen and (max-width: 568px) {
+  .rating-popup {
+    width: 345px;
+    height: 615px;
+  }
+  .rating-popup-details {
+    margin-top: 35px;
+  }
+  .rating-popup-details span {
+    padding: 0px;
+  }
+  .rating-popup-details span {
+    font-size: 32px;
+  }
+  .popup-details-img {
+    top: 50%;
+  }
+  .rating-popup-container {
+    height: 300px;
+  }
+  .popup-last-content h3 {
+    margin-top: 35px;
+    font-size: 14px;
+  }
+  form input {
+    padding: 10px 14px;
+    font-size: 10px;
+
+    margin-top: 10px;
+  }
+  .last-content-img-secound img {
+    width: 25px;
+    height: 25px;
+
+    margin-top: 12px;
+  }
+  .last-content-img-first img {
+    width: 32px;
+    margin-top: 18px;
+  }
+  .popup-last-content .popup-new-btn {
+    height: 40px;
+    line-height: 42px;
+    margin-top: 30px;
+  }
+}
