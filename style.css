@@ -4,9 +4,8 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #000;
+  background-color: #535353c4;
 }
-
 @font-face {
   font-family: Mont;
 
@@ -18,7 +17,7 @@ body {
 }
 .rating-popup {
   position: absolute;
-  width: 498px;
+  width: 500px;
   height: 685px;
   background-color: #ffffff;
   top: 50%;
